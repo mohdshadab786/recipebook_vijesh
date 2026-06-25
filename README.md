@@ -1,4 +1,4 @@
-# Full Stack Tutorial Irshad
+# Full Stack Tutorial /islam
 
 ## Technologies
 
