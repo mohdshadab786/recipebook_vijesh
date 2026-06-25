@@ -1,4 +1,4 @@
-# Full Stack Tutorial SAhadab
+# Full Stack Tutorial Irshad
 
 ## Technologies
 
